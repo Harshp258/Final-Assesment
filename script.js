@@ -25,3 +25,7 @@ window.onload = function() {
         }
     }
 }
+
+document.getElementById('playButton').addEventListener('click', function() {
+    window.location.replace('https://www.youtube.com/watch?v=AuWvMgYv03g&t=2s');
+});
