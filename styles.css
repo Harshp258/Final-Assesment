@@ -97,7 +97,6 @@ color:aquamarine;
     transform: scale(1.05); 
 }
 
-/* Add review form styles */
 .review-container {
     margin-top: auto;
     background-color: transparent;
@@ -149,7 +148,6 @@ color:aquamarine;
 .form-container button:hover {
     background-color: #6c3483;
 }
-
 /* Footer */
 footer {
     position: relative;
